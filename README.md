@@ -1,5 +1,6 @@
 # EMERE-web-
 My first web design ft learning
+
 Day 1;
 * created the basic structure in HTML
 * Add images and texts
