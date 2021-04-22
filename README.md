@@ -15,4 +15,4 @@ Day 2;
 Day 3;
 * gave the smooth scroll effect 
 * still getting used to the whole git thing
-*going to work on the threejs 
+* going to work on the threejs 
