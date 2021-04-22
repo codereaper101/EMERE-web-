@@ -16,3 +16,5 @@ Day 3;
 * gave the smooth scroll effect 
 * still getting used to the whole git thing
 * going to work on the threejs 
+
+Ps. still working on it
